@@ -6,4 +6,4 @@ I will use this GitHub profile to showcase my data science skills.
 ## Interests 
 - Python 
 - Data Science
-- Starting at the wall
+- Chess
